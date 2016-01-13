@@ -1,4 +1,4 @@
-airbitz-android-gui
+SegWitz-android-gui
 =========================
 
 ### Setup dependencies repositories
